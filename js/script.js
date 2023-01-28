@@ -9,3 +9,10 @@ function ativarLink(link) {
 }
 
 links.forEach(ativarLink);
+
+//Ativar itens do orçamento//
+
+const parametros = new URLSearchParams(location.search);
+
+function ativarProduto(parametros);
+parametros.forEach(ativarProduto);
