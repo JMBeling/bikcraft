@@ -1,5 +1,6 @@
-<h1>BIKCRAFT</h1>
-<p>Projeto final Curso "HTML e CSS" da <a href="https://www.origamid.com/">ORIGAMID</a><br>
+<h1>BIKCRAFT - Projeto final Curso "HTML e CSS" da <a href="https://www.origamid.com/">ORIGAMID</a></h1>
+
+<p>
 Consiste em um site Institucional. Visando a venda de bicicletas elétricas e venda de planos de<br> seguro para as bicicletas.<br>
 <br>O site possui ao todo 9 abas:
 <br> HOME - página inicial apresentação do site, mostrando brevemente as bicicletas, planos de seguros, parceiros e depoimentos de clientes.
