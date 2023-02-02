@@ -1,6 +1,6 @@
 <h1>BIKCRAFT</h1>
-<p>Projeto final Curso "HTML e CSS" da ORIGAMID &lt;https://www.origamid.com/><br>
-Consiste em um site de venda. Apresentando as bicicletas elétricas,<br> suas vantagens e diferenciais. Visando a venda de bicicletas e venda de planos de<br> seguro para as bicicletas.<br>
+<p>Projeto final Curso "HTML e CSS" da <a href="https://www.origamid.com/">ORIGAMID</a><br>
+Consiste em um site Institucional. Visando a venda de bicicletas elétricas e venda de planos de<br> seguro para as bicicletas.<br>
 <br>O site possui ao todo 9 abas:
 <br> HOME - página inicial apresentação do site, mostrando brevemente as bicicletas, planos de seguros, parceiros e depoimentos de clientes.
 <br> BICICLETAS - página com todas as bicicletas que estão a venda no site, com alguns detalhes sobre.
@@ -20,10 +20,15 @@ Consiste em um site de venda. Apresentando as bicicletas elétricas,<br> suas va
  </div>
 
  <div>
- <h3>Projeto Original Utilizado como Modelo durante o Curso:</h3>
+ <h3>🐺Projeto Original Utilizado como Modelo durante o Curso:</h3>
  <a href="https://www.origamid.com/projetos/bikcraft/">BIKCRAFT</a>
  </div>
  
+ <div>
+ <h3>🧑‍💻Professor Responsável:</h3>
+ <a href="https://github.com/origamid">André Rafael</a>
+  
+  
  <div>
  <h3>🎓Certificado de Conclusão de Curso:</h3>
  <a href=""></a>
