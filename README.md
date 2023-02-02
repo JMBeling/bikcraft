@@ -1,12 +1,14 @@
-<h1>bikcraft</h1>
+<h1>BIKCRAFT</h1>
 <p>Projeto final Curso "HTML e CSS" da ORIGAMID &lt;https://www.origamid.com/><br>
-Consiste em um site de apresentação do produto. Apresentando as bicicletas elétricas,<br> suas vantagens e diferenciais. Visando a venda de bicicletas e venda de planos de<br> seguro para as bicicletas.<br>
-<br>O site possui ao todo 7 abas:
+Consiste em um site de venda. Apresentando as bicicletas elétricas,<br> suas vantagens e diferenciais. Visando a venda de bicicletas e venda de planos de<br> seguro para as bicicletas.<br>
+<br>O site possui ao todo 9 abas:
 <br> HOME - página inicial apresentação do site, mostrando brevemente as bicicletas, planos de seguros, parceiros e depoimentos de clientes.
 <br> BICICLETAS - página com todas as bicicletas que estão a venda no site, com alguns detalhes sobre.
 <br> BICICLETAS-INTERNA - página de venda individual, com a bicicleta selecionada, e mais detalhes sobre ela (este site possui 3 páginas diferentes de bicicletas).
 <br> SEGUROS - Página com todas as opções de seguros, suas vantagens e perguntas frequentes.
-<br> CONTATO - 
+<br> CONTATO - Página com as informações de contato, redes sociais, opção de envio de mensagem e endereço das lojas fisícas.
+<br> ORÇAMENTO - Página de orçamento, das Bicicletas e dos planos de Seguro.
+<br> TERMOS-DE-USO - Página com os termos de uso.
 </p>
 
 <div>
